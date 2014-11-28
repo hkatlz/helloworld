@@ -1,0 +1,16 @@
+#	../81xx/
+#	../Desktop/
+#	../QQ_Backup/
+#	../QQ_Backup_2014-11-27-23-48-13/
+#	../QQ_Backup_2014-11-28-21-54-27/
+#	../Source Insight/
+#	../WineQQ2013SP6-20140102-Longene.deb
+#	../examples.desktop
+#	../linux.rar
+nothing added to commit but untracked files present (use "git add" to track)
+hongkun@ezword:~/helloworld$ git push helloworld master
+Counting objects: 9, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 20.97 MiB | 481 KiB/s, done.
+Tota
